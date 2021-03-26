@@ -79,4 +79,4 @@ This is a book sharing session I gave through [DataWhale](https://github.com/dat
 
 My master thesis when I studied at [Institute for Social and Economic Research and Policy](http://iserp.columbia.edu/), Columbia University. The keynote outlines how to use a machine learning framework, [meta-learner](https://www.pnas.org/content/116/10/4156), to gauge to individual treatment effect in randomized control trails (A/B Testing).
 
-这是我在哥伦比大大学研究生的毕业论文答辩，展示了用机器学习模型 [meta-learner](https://www.pnas.org/content/116/10/4156) 来估计随机试验中的个体效果。
+这是我在哥伦比大大学研究生院的毕业论文答辩，展示了用机器学习模型 [meta-learner](https://www.pnas.org/content/116/10/4156) 来估计随机试验中的个体效果。
