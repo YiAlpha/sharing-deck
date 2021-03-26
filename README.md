@@ -24,7 +24,7 @@
 
 This is a sharing session I gave through [DataWhale](https://github.com/datawhalechina) about how to use agile methodology for self-management and kick off new initatives for life exploration.
 
-[Recording](https://www.bilibili.com/video/BV1pv411a7ni)
+[Additional Reading](https://yidatadive.com/Scrum-Q-A.html)
 
 
 
@@ -50,6 +50,8 @@ This is a sharing session I gave through [DataWhale](https://github.com/datawhal
 **Keywords:** `Positive Psychology`, `Corporate Culture`, `Product Management`
 
 This is a book sharing session I gave through [DataWhale](https://github.com/datawhalechina) about how I refine my work and life through 4 books:
+
+[Book Review](https://yidatadive.com/no-rules-rules.html)
 
 - Learned Optimism
   by Martin Seligman
