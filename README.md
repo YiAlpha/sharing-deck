@@ -49,7 +49,7 @@ This is a sharing session I gave through [DataWhale](https://github.com/datawhal
 
 **Keywords:** `Positive Psychology`, `Corporate Culture`, `Product Management`
 
-This is a book sharing session I gave through [DataWhale](https://github.com/datawhalechina) about how I refine my work and life through 4 books:
+This is a book sharing session I gave through [DataWhale](https://github.com/datawhalechina) about how I redefine my work and life through 4 books:
 
 [Book Review](https://yidatadive.com/no-rules-rules.html)
 
