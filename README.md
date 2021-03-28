@@ -1,12 +1,12 @@
 # 个人分享合集  Keynotes from my previous sharing sessions
 
-## [文科生美国研究生申请选校：社科vs.公共政策](https://github.com/YiAlpha/sharing-deck/blob/main/Social-Sciences-MPA-Master-Program.pdf)
+## [文科生美国研究生申请选校：社科vs.公共政策](https://github.com/YiAlpha/sharing-deck/blob/main/%E6%96%87%E7%A7%91%E7%94%9F%E9%80%89%E6%A0%A1%E5%AE%9A%E4%BD%8D.pdf)
 
 **关键词：**`北美研究生申请`， `个人定位`， `文科生`
 
 这是我3月27日为[棕榈大道](https://www.palmdrive.cn/)做的一期泛文科申请北美研究生的定位诊断方法，重点分析社会科学项目和公共政策管理项目的区别。
 
-**Keywords:** `graudate school application`,  `MA in Social Sciences`, `Master in Public Policy` 
+**Keywords:** `Graudate School Application`,  `MA in Social Sciences`, `Master in Public Policy` 
 
 This is a education counsulting session I gave through [PalmDrive](https://www.palmdrive.cn/) about how to select graduate programs among social sciences division and public policy from a liberal arts background.
 
