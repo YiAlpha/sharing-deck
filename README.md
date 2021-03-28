@@ -8,7 +8,7 @@
 
 **Keywords:** `Graudate School Application`,  `MA in Social Sciences`, `Master in Public Policy` 
 
-This is a education counsulting session I gave through [PalmDrive](https://www.palmdrive.cn/) about how to select graduate programs among social sciences division and public policy from a liberal arts background.
+This is an education counsulting session I gave through [PalmDrive](https://www.palmdrive.cn/) about how to select graduate programs among social sciences division and public policy from a liberal arts background.
 
 ## [敏捷开发和个人成长](https://github.com/YiAlpha/sharing-deck/blob/main/%E6%95%8F%E6%8D%B7%E5%BC%80%E5%8F%91%E5%92%8C%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF.pdf)
 
