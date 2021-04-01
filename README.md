@@ -1,5 +1,9 @@
 # 个人分享PPT合集 My Keynotes Collection
 
+收录我在不同平台做的分享的PPT：你可以点击以下大标题浏览相应PPT，跳转文件页面后可以下载。
+
+如果你对于分享内容有任何意见和建议，请开一个issue留言，或者点击 <a href="mailto:yiyinnyc@gmail.com?"><img src="https://github.com/YiAlpha/card-deck-simulation/raw/main/images/Envelope.png" width="27px" height="18px"/></a>, 通过邮件联系
+
 This repository presents a collection of keynotes from the virtual session I gave through various partnership channels.
 
 Menu Page: https://yialpha.github.io/sharing-deck/
