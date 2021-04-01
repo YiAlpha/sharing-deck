@@ -1,4 +1,10 @@
-# 个人分享合集  Keynotes from my previous sharing sessions
+# 个人分享PPT合集 My Keynotes Collection
+
+This repository presents a collection of keynotes from the virtual session I gave through various partnership channels.
+
+You can preview the PDF keynote by click the link in each title below and download them by hitting the download button on the file page.
+
+If you would like to provide feedback or topic suggestions or have any questions regarding the presentation, please create an issue.
 
 ## [文科生美国研究生申请选校：社科vs.公共政策](https://github.com/YiAlpha/sharing-deck/blob/main/%E6%96%87%E7%A7%91%E7%94%9F%E9%80%89%E6%A0%A1%E5%AE%9A%E4%BD%8D.pdf)
 
