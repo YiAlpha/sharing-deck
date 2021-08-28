@@ -12,7 +12,13 @@ You can preview the PDF keynote by click the link in each title below and downlo
 
 If you would like to provide feedback or topic suggestions or have any questions regarding the presentation, please create an issue or shoot me an email  <a href="mailto:yiyinnyc@gmail.com?"><img src="https://github.com/YiAlpha/card-deck-simulation/raw/main/images/Envelope.png" width="27px" height="18px"/></a>
 
+## DataWhale as a Killer Feature
 
+**关键词：**`北美研究生申请`， `个人定位`， `文科生`
+
+这是我在 [DataWhale](https://github.com/datawhalechina) 8月28日做的一期如何把社群参与写进简历的分享。
+
+**Keywords:** `简历`,  `面试` ,`求职` 
 
 ## [文科生美国研究生申请选校：社科vs.公共政策](https://github.com/YiAlpha/sharing-deck/blob/main/%E6%96%87%E7%A7%91%E7%94%9F%E9%80%89%E6%A0%A1%E5%AE%9A%E4%BD%8D.pdf)
 
